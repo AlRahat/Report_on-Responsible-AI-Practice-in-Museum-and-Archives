@@ -7,8 +7,8 @@ A comprehensive study exploring how Artificial Intelligence (AI) can enhance the
 ---
 
 ## 📄 Full Report
+📥 [Download the Complete Research Report (PDF)](https://github.com/AlRahat/Report_on-Responsible-AI-Practice-in-Museum-and-Archives/raw/main/Responsible%20AI%20Practice%20in%20Museums%20and%20Archives_%20A%20Narrative%20Review.pdf)
 
-📥 [Download the Complete Research Report (PDF)](./Responsible_AI_Practices_in_Museums_and_Archives.pdf)
 
 ---
 
